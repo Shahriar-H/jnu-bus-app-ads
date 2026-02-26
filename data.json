@@ -1,0 +1,230 @@
+{"data":[
+  {
+    "name": "চন্দ্রমুখী-১",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Farmgate", "latitude": 23.757391114748447, "longitude": 90.38999579527564 },
+      { "name": "Asad Gate", "latitude": 23.760748353332136, "longitude": 90.37267825136199 },
+      { "name": "Shukrabad", "latitude": 23.75262237866886, "longitude": 90.37774719580723 },
+      { "name": "Kolabagan", "latitude": 23.745836231515877, "longitude": 90.38175508644943 },
+      { "name": "New Market", "latitude": 23.73440158608769, "longitude": 90.38442962225929 },
+     
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "চন্দ্রমুখী-২",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Khamarbari", "latitude": 23.75874509031731, "longitude": 90.38313229095255 },
+      { "name": "Manik Mia Avn.", "latitude": 23.758338439371865, "longitude": 90.37544799741612 },
+      { "name": "Dhanmondi-27", "latitude": 23.75657844799127, "longitude": 90.37556680099928 },
+      { "name": "Kalabagan", "latitude": 23.746179949983304, "longitude": 90.38188009318877 },
+      { "name": "City College", "latitude": 23.73958785682906, "longitude": 90.38336089893797 },
+      { "name": "Nilkhet", "latitude": 23.732306796357012, "longitude": 90.38506859515392 },
+    
+      { "name": "Gulistan", "latitude": 23.73154915148788, "longitude": 90.41090336263552 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "উল্কা-১",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Uttara (Azampur Bus Stand)", "latitude": 23.867888028599538, "longitude": 90.40015507399406 },
+      { "name": "Kuril Highway", "latitude": 23.827279508761805, "longitude": 90.41968261882647 },
+      { "name": "Bimanbandar", "latitude": 23.856609861101827, "longitude":  90.40869676947561 },
+      { "name": "Badda", "latitude": 23.780755450090833, "longitude": 90.42547898051285 },
+      { "name": "Rampura", "latitude": 23.761765246800106, "longitude": 90.41919466760389 },
+      { "name": "Malibagh", "latitude": 23.746194081715192, "longitude": 90.41417717457576 },
+      { "name": "Poltan", "latitude": 23.730746535733303, "longitude": 90.4100632919595 },
+      { "name": "Gulistan", "latitude": 23.73154915148788, "longitude": 90.41090336263552 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "উল্কা-২",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Tongi Bridge", "latitude": 23.883695843267954, "longitude": 90.4007711194504 },
+      { "name": "Bimanbandar", "latitude": 23.856609861101827, "longitude":  90.40869676947561 },
+      { "name": "Banani", "latitude": 23.795817839331427, "longitude": 90.40094355925417 },
+      { "name": "Mohakhali", "latitude": 23.778283908554986, "longitude":  90.39874414731025 },
+      { "name": "Nabisko", "latitude": 23.77176453182537, "longitude": 90.40080408370923 },
+      { "name": "Maghbazar", "latitude": 23.752301247109965, "longitude":  90.40320908504405 },
+      { "name": "Chowrasta", "latitude": 23.757945497019648, "longitude": 90.41574145634654 },
+      { "name": "Malibagh", "latitude": 23.744404755141527, "longitude": 90.41387515124565 },
+      { "name": "Kakrail", "latitude": 23.73809873807785, "longitude": 90.40895905079165 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "প্রজন্ম-১",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Khilgaon", "latitude": 23.748087785253055, "longitude":  90.42362667414375 },
+      { "name": "Basabo", "latitude": 23.73980202005363, "longitude":90.42751920294936 },
+      { "name": "Bouddha Mandir", "latitude": 23.736360661434944, "longitude": 90.4286062796705 },
+      { "name": "Mugdha", "latitude": 23.731280322102315, "longitude": 90.42860871431336 },
+      { "name": "TT Para", "latitude": 23.7242669765621, "longitude": 90.42846803181517 },
+      { "name": "Maniknagar", "latitude": 23.722375723090153, "longitude":  90.4286995336261 },
+      { "name": "Golapbagh", "latitude": 23.717436253267163, "longitude":  90.42952606987771 },     
+      { "name": "Dayaganj", "latitude": 23.711882533842594, "longitude": 90.42395274519517 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "প্রজন্ম-২",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Arambagh", "latitude": 23.731853457677797, "longitude": 90.42155590956385 },
+      { "name": "Mugdha", "latitude": 23.731280322102315, "longitude": 90.42860871431336 },
+      { "name": "Maniknagar", "latitude": 23.722375723090153, "longitude":  90.4286995336261 },
+      { "name": "Saidabad", "latitude": 23.716444241383034, "longitude":  90.42593610666975 },
+      { "name": "Jatrabari", "latitude": 23.71045428671819, "longitude": 90.43357539603032 },
+      { "name": "Dayaganj", "latitude": 23.711882533842594, "longitude": 90.42395274519517 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  
+  {
+    "name": "স্বপ্নচুড়া",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Narayanganj", "latitude": 23.695598056110036, "longitude": 90.43152080583418 },
+      { "name": "Chashara", "latitude": 23.62411193464505, "longitude": 90.49891229130023 },
+      { "name": "Fotullah", "latitude": 23.641875498837663, "longitude": 90.47299142645852 },
+      { "name": "Shayampur", "latitude": 23.689197674935063, "longitude": 90.43565048993392 },
+      { "name": "Jatrabari", "latitude": 23.71045428671819, "longitude": 90.43357539603032 },
+      { "name": "Saidabad", "latitude": 23.716444241383034, "longitude":  90.42593610666975 },
+     
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "উত্তরন",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Mirpur-14", "latitude": 23.79872252936625, "longitude": 90.3872040375973 },
+      { "name": "Mirpur-10", "latitude": 23.807026831541418, "longitude": 90.36854654268426 },
+      { "name": "Mirpur-1", "latitude": 23.79864376438002, "longitude": 90.3535100796271 },
+      { "name": "Technical", "latitude": 23.781557639192265, "longitude":  90.35252273729792 },
+      { "name": "Asad Gate", "latitude": 23.760748353332136, "longitude": 90.37267825136199 },
+      { "name": "Kolabagan", "latitude": 23.745836231515877, "longitude": 90.38175508644943 },
+      { "name": "New Market", "latitude": 23.73440158608769, "longitude": 90.38442962225929 },
+      { "name": "Azimpur", "latitude": 23.727609752265604, "longitude": 90.38610200691532 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "দূর্জয়",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Mirpur-2", "latitude": 23.805490838492695, "longitude": 90.36321572857089 },
+      { "name": "Mirpur-1", "latitude": 23.79869284714359, "longitude": 90.35349935079168 },
+      { "name": "Technical", "latitude": 23.781557639192265, "longitude":  90.35252273729792 },
+      { "name": "Kalyanpur", "latitude": 23.780470311168855, "longitude":  90.36023940633352 },
+      { "name": "Asad Gate", "latitude": 23.760748353332136, "longitude": 90.37267825136199 },
+      { "name": "Kolabagan", "latitude": 23.745836231515877, "longitude": 90.38175508644943 },
+      { "name": "New Market", "latitude": 23.73440158608769, "longitude": 90.38442962225929 },
+      { "name": "Azimpur", "latitude": 23.727609752265604, "longitude": 90.38610200691532 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "অণির্বাণ-১",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Mirpur-12", "latitude": 23.82829381159874, "longitude": 90.3640072376116 },
+      { "name": "Mirpur-11", "latitude": 23.81697157993916, "longitude": 90.36633028095412 },
+      { "name": "Mirpur-10", "latitude": 23.808142160118553, "longitude": 90.36859161111688 },
+      { "name": "Kazipara", "latitude": 23.797602115898606, "longitude": 90.37295938149119 },
+      { "name": "ShewraPara", "latitude": 23.790938020684433, "longitude":  90.37558133513346 },
+      { "name": "Taltala", "latitude": 23.783804785368083, "longitude": 90.37855189587538 },
+      { "name": "Agargaon", "latitude": 23.777890328104597, "longitude": 90.380586279934 },
+      { "name": "Bijoy Saroni", "latitude": 23.76568856540061, "longitude":  90.38312155432033 },
+      { "name": "Farmgate", "latitude": 23.757361677052913, "longitude": 90.39001189317014 },
+      { "name": "Banglamotor", "latitude": 23.746542147662673, "longitude":  90.39485836454742 },
+      { "name": "Shahbag", "latitude": 23.739369502687595, "longitude": 90.39583616435097 },
+      { "name": "Paltan", "latitude": 23.73022962583864, "longitude": 90.40998636243758 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "স্বপ্নীল",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Madhobpur Chawrasta", "latitude": 23.71027033426701, "longitude":  91.05726786428546 },
+      { "name": "Kachpur Bridze", "latitude": 23.703777021774663, "longitude": 90.5176367931533 },
+      { "name": "Chittagong Road", "latitude": 23.69738530814923, "longitude": 90.50735515083643 },
+      { "name": "Signboard", "latitude": 23.694099887949854, "longitude":  90.48101614471283 },
+      { "name": "Shonir Akhra", "latitude": 23.702802028209295, "longitude": 90.45040187962712 },
+      { "name": "Donia", "latitude": 23.703494651003084, "longitude": 90.44893740849623 },
+      { "name": "Jatrabari", "latitude": 23.710160504536933, "longitude":  90.43437151772501 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "বংশী",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Nabinagar", "latitude": 23.914313169795243, "longitude":  90.2595087454623 },
+      { "name": "Savar Bus Stand", "latitude": 23.85251178709156, "longitude": 90.25676992173445 },
+      { "name": "Gabtoli", "latitude": 23.783418120118252, "longitude": 90.3435598069189 },
+      { "name": "Technical", "latitude": 23.781557639192265, "longitude":  90.35252273729792 },
+      { "name": "Shayamoli", "latitude": 23.775213558335672, "longitude": 90.3653164796271 },
+      { "name": "Mohammadpur", "latitude": 23.757347970810464, "longitude":  90.36128382010841 },
+      { "name": "Shia Mosjid", "latitude": 23.763226072194005, "longitude": 90.35909845714183 },
+      { "name": "Palashi", "latitude": 23.726176652484245, "longitude": 90.3865869681663 },
+      { "name": "Gulistan", "latitude": 23.73154915148788, "longitude": 90.41090336263552 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "আড়িয়াল",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "keraniganj", "latitude": 23.704940871398275, "longitude": 90.39082148993393 },
+      { "name": "Srinagar", "latitude": 23.52683811780346, "longitude": 90.28761332200358 },
+      { "name": "Mawa", "latitude": 22.3134794820402, "longitude": 87.43497632013558 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "নোঙ্গর",
+    "description":"জবির নিজেস্ব বাস, সিঙ্গেল ডেক, সিলভার কালার",
+    "stops": [
+      { "name": "Itkhola", "latitude": 23.987129089764405, "longitude": 90.73323178447076 },
+      { "name": "Vela Nagar", "latitude": 23.943527559063135, "longitude": 90.70950353732064 },
+      { "name": "Pachdona", "latitude": 23.894497133523753, "longitude": 90.6650738185084 },
+      { "name": "Madhobdi", "latitude": 23.854513250479243, "longitude": 90.67303987988836 },
+      { "name": "Demra", "latitude": 23.723100965736645, "longitude": 90.49373156293726 },
+      { "name": "Jatrabari", "latitude": 23.710646753454498, "longitude":  90.4343634709001 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "ঐতিহ্য",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Bhulta", "latitude": 23.784932428043625, "longitude": 90.56537737459588 },
+      { "name": "Demra Staff Q.", "latitude": 23.722158025929495, "longitude": 90.48978335150595 },
+      { "name": "Jatrabari", "latitude": 23.710646753454498, "longitude":  90.4343634709001 },
+      { "name": "Dholaikhal", "latitude": 23.718074982951297, "longitude":  90.4120902146452 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  },
+  {
+    "name": "বিজয়",
+    "description":"বিআরটিসি-র ডাবলডেক-এর লাল রঙ এর বাস",
+    "stops": [
+      { "name": "Gulistan", "latitude": 23.726155687645996, "longitude": 90.41174571860827 },
+      { "name": "Nagar Bhaban", "latitude": 23.724776105298286, "longitude": 90.40769040161463 },
+      { "name": "Doel Chattor", "latitude": 23.7281742938046, "longitude": 90.4002753778207 },
+      { "name": "Shaheed Minar", "latitude": 23.725738446692343, "longitude": 90.39774873630597 },
+      { "name": "Azimpur", "latitude": 23.727512750847698, "longitude": 90.38612569318367 },
+      { "name": "Jagannath University", "latitude": 23.708094529547324, "longitude": 90.41094356643796 }
+    ]
+  }
+  
+]}

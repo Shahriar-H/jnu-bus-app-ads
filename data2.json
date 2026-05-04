@@ -1,1 +1,348 @@
+{"data":[
+  {
+    "name": "গোমতী",
+    "description": "কুমিল্লা পুলিশ লাইন টু জবি (ভায়া দাউদকান্দি-কাঁচপুর)",
+    "stops": [
+      { "name": "Cumilla Police Line", "latitude": 23.4682, "longitude": 91.1714 },
+      { "name": "Alekhachar", "latitude": 23.4862, "longitude": 91.1517 },
+      { "name": "Mainamati Cantonment", "latitude": 23.4675, "longitude": 91.1175 },
+      { "name": "Nimsar", "latitude": 23.4795, "longitude": 91.0664 },
+      { "name": "Chandina", "latitude": 23.4839, "longitude": 91.0114 },
+      { "name": "Eliotganj", "latitude": 23.5134, "longitude": 90.8712 },
+      { "name": "Gauripur", "latitude": 23.5358, "longitude": 90.7513 },
+      { "name": "Daudkandi", "latitude": 23.5332, "longitude": 90.7186 },
+      { "name": "Bhaberchar", "latitude": 23.5512, "longitude": 90.6481 },
+      { "name": "Mograpara", "latitude": 23.6358, "longitude": 90.5964 },
+      { "name": "Madanpur", "latitude": 23.6739, "longitude": 90.5471 },
+      { "name": "Kanchpur", "latitude": 23.7025, "longitude": 90.5181 },
+      { "name": "Shanir Akhra", "latitude": 23.7029, "longitude": 90.4549 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 }
+    ]
+  },
+  {
+    "name": "আড়িয়াল",
+    "description": "লৌহজং টু চুনকুটিয়া চৌরাস্তা",
+    "stops": [
+      { "name": "Lohajang Puran Thana", "latitude": 23.4727, "longitude": 90.3117 },
+      { "name": "Mawa Ghat", "latitude": 23.4764, "longitude": 90.2608 },
+      { "name": "Nimtola", "latitude": 23.6067, "longitude": 90.3542 },
+      { "name": "Rajendrapur", "latitude": 23.6391, "longitude": 90.3801 },
+      { "name": "Tegharia", "latitude": 23.6669, "longitude": 90.4112 },
+      { "name": "Chunukutia Chowrasta", "latitude": 23.6841, "longitude": 90.4071 }
+    ]
+  },
+  {
+    "name": "বিজয় ১ ও ২",
+    "description": "জবি টু আজিমপুর (ভায়া শহীদ মিনার)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Curzon Hall", "latitude": 23.7286, "longitude": 90.4005 },
+      { "name": "Shaheed Minar", "latitude": 23.7277, "longitude": 90.3965 },
+      { "name": "Palashi", "latitude": 23.7288, "longitude": 90.3892 },
+      { "name": "Azimpur", "latitude": 23.7296, "longitude": 90.3854 }
+    ]
+  },
+  {
+    "name": "বংশী",
+    "description": "সাভার/নবীনগর টু গাবতলী মাজার রোড",
+    "stops": [
+      { "name": "Nabinagar", "latitude": 23.9137, "longitude": 90.2547 },
+      { "name": "Savar Thana Stand", "latitude": 23.8583, "longitude": 90.2662 },
+      { "name": "Hemayetpur", "latitude": 23.7946, "longitude": 90.2721 },
+      { "name": "Amin Bazar", "latitude": 23.7842, "longitude": 90.3308 },
+      { "name": "Gabtoli", "latitude": 23.7781, "longitude": 90.3344 },
+      { "name": "Mazar Road", "latitude": 23.7818, "longitude": 90.3444 }
+    ]
+  },
+  {
+    "name": "চন্দ্রমুখী",
+    "description": "জবি টু খামারবাড়ি (ভায়া ধানমন্ডি-শুক্রাবাদ)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Nilkhet", "latitude": 23.7331, "longitude": 90.3854 },
+      { "name": "New Market", "latitude": 23.7344, "longitude": 90.3844 },
+      { "name": "Science Lab", "latitude": 23.7378, "longitude": 90.3828 },
+      { "name": "Kolabagan", "latitude": 23.7458, "longitude": 90.3817 },
+      { "name": "Dhanmondi 32", "latitude": 23.7516, "longitude": 90.3781 },
+      { "name": "Shukrabad", "latitude": 23.7526, "longitude": 90.3777 },
+      { "name": "Sangsad Bhaban", "latitude": 23.7621, "longitude": 90.3786 },
+      { "name": "Khamarbari", "latitude": 23.7588, "longitude": 90.3848 }
+    ]
+  },
+  {
+    "name": "দুর্জয়",
+    "description": "জবি টু মোহাম্মদপুর (ভায়া ঝিগাতলা)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Nilkhet", "latitude": 23.7331, "longitude": 90.3854 },
+      { "name": "City College", "latitude": 23.7394, "longitude": 90.3817 },
+      { "name": "Jhigatola", "latitude": 23.7441, "longitude": 90.3725 },
+      { "name": "Mohammadpur", "latitude": 23.7543, "longitude": 90.3644 }
+    ]
+  },
+  {
+    "name": "উল্কা ১",
+    "description": "জবি টু কুড়িল বিশ্বরোড (ভায়া বাড্ডা)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Dayaganj", "latitude": 23.7121, "longitude": 90.4217 },
+      { "name": "Motijheel", "latitude": 23.7330, "longitude": 90.4174 },
+      { "name": "Mouchak", "latitude": 23.7456, "longitude": 90.4074 },
+      { "name": "Rampura", "latitude": 23.7612, "longitude": 90.4194 },
+      { "name": "Badda", "latitude": 23.7808, "longitude": 90.4226 },
+      { "name": "Kuril Bishwa Road", "latitude": 23.8191, "longitude": 90.4197 }
+    ]
+  },
+  {
+    "name": "উল্কা ২",
+    "description": "জবি টু গাজীপুর চৌরাস্তা (ভায়া মহাখালী-এয়ারপোর্ট)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Mohakhali", "latitude": 23.7777, "longitude": 90.4005 },
+      { "name": "Airport", "latitude": 23.8517, "longitude": 90.4001 },
+      { "name": "Board Bazar", "latitude": 23.9530, "longitude": 90.3842 },
+      { "name": "Gazipur Chowrasta", "latitude": 23.9920, "longitude": 90.3881 }
+    ]
+  },
+  {
+    "name": "উল্কা ৩",
+    "description": "জবি টু উত্তরা হাউসবি বিল্ডিং (ভায়া বনানী)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Matsya Bhaban", "latitude": 23.7301, "longitude": 90.3986 },
+      { "name": "Banani", "latitude": 23.7937, "longitude": 90.4066 },
+      { "name": "Azampur", "latitude": 23.8741, "longitude": 90.4005 },
+      { "name": "House Building", "latitude": 23.8812, "longitude": 90.3971 }
+    ]
+  },
+  {
+    "name": "উল্কা ৪",
+    "description": "জবি টু আব্দুল্লাহপুর (ভায়া মগবাজার-বনানী)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Moghbazar", "latitude": 23.7485, "longitude": 90.4026 },
+      { "name": "Nabisko", "latitude": 23.7651, "longitude": 90.4005 },
+      { "name": "Uttara", "latitude": 23.8759, "longitude": 90.3906 },
+      { "name": "Abdullahpur", "latitude": 23.8906, "longitude": 90.3981 }
+    ]
+  },
+  {
+    "name": "প্রজন্ম ১",
+    "description": "জবি টু খিলগাঁও (ভায়া মুগদা-বাসাবো)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Sayedabad", "latitude": 23.7196, "longitude": 90.4326 },
+      { "name": "Maniknagar", "latitude": 23.7238, "longitude": 90.4325 },
+      { "name": "Mugda", "latitude": 23.7314, "longitude": 90.4334 },
+      { "name": "Basabo", "latitude": 23.7408, "longitude": 90.4327 },
+      { "name": "Khilgaon", "latitude": 23.7487, "longitude": 90.4216 }
+    ]
+  },
+  {
+    "name": "প্রজন্ম ২",
+    "description": "জবি টু মতিঝিল (ভায়া যাত্রাবাড়ী-আরামবাগ)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Dayaganj", "latitude": 23.7121, "longitude": 90.4217 },
+      { "name": "Jatrabari", "latitude": 23.7114, "longitude": 90.4327 },
+      { "name": "Arambagh", "latitude": 23.7335, "longitude": 90.4213 },
+      { "name": "Motijheel", "latitude": 23.7330, "longitude": 90.4174 }
+    ]
+  },
+  {
+    "name": "নোঙ্গর",
+    "description": "জবি টু ইটাখোলা, নরসিংদী (ভায়া ডেমরা-ভুলতা)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Demra", "latitude": 23.7161, "longitude": 90.4908 },
+      { "name": "Bhulta", "latitude": 23.7842, "longitude": 90.5891 },
+      { "name": "Madhabdi", "latitude": 23.8517, "longitude": 90.6622 },
+      { "name": "Velanagar", "latitude": 23.9213, "longitude": 90.7188 },
+      { "name": "Itakhola", "latitude": 24.0135, "longitude": 90.8142 }
+    ]
+  },
+  {
+    "name": "ঐতিহ্য",
+    "description": "জবি টু ভুলতা (ভায়া কোনাপাড়া-রূপসী)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Konapara", "latitude": 23.7105, "longitude": 90.4639 },
+      { "name": "Rupshi", "latitude": 23.7483, "longitude": 90.5422 },
+      { "name": "Bhulta", "latitude": 23.7842, "longitude": 90.5891 }
+    ]
+  },
+  {
+    "name": "পদ্মা",
+    "description": "জবি টু ফুলতলা (ভায়া বাবুবাজার ব্রিজ-জিঞ্জিরা)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Babubazar Bridge", "latitude": 23.7086, "longitude": 90.4002 },
+      { "name": "Zinjira", "latitude": 23.7042, "longitude": 90.3897 },
+      { "name": "Rohitpur", "latitude": 23.6744, "longitude": 90.3017 },
+      { "name": "Phultala", "latitude": 23.5935, "longitude": 90.2227 }
+    ]
+  },
+  {
+    "name": "রজতরেখা",
+    "description": "জবি টু মুন্সিগঞ্জ (ভায়া সাইনবোর্ড-পঞ্চবতী)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Signboard", "latitude": 23.6874, "longitude": 90.4851 },
+      { "name": "Panchabati", "latitude": 23.6331, "longitude": 90.4735 },
+      { "name": "Chashara", "latitude": 23.6231, "longitude": 90.5002 },
+      { "name": "Munshiganj Kathpatti", "latitude": 23.5487, "longitude": 90.5317 }
+    ]
+  },
+  {
+    "name": "স্বপ্নীল",
+    "description": "জবি টু সোনারগাঁও (ভায়া চিটাগাংরোড-মদনপুর)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Chittagong Road", "latitude": 23.6934, "longitude": 90.5137 },
+      { "name": "Madanpur", "latitude": 23.6739, "longitude": 90.5471 },
+      { "name": "Sonargaon", "latitude": 23.6358, "longitude": 90.5964 }
+    ]
+  },
+  {
+    "name": "স্বপ্নচূড়া ১",
+    "description": "জবি টু চুনকা পাঠাগার (ভায়া পোস্তগোলা-ফতুল্লা)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Postogola", "latitude": 23.6922, "longitude": 90.4344 },
+      { "name": "Fatullah", "latitude": 23.6497, "longitude": 90.4831 },
+      { "name": "Chashara", "latitude": 23.6231, "longitude": 90.5002 },
+      { "name": "Chunka Pathagar", "latitude": 23.6225, "longitude": 90.4995 }
+    ]
+  },
+  {
+    "name": "স্বপ্নচূড়া ২",
+    "description": "জবি টু চাষাড়া (ভায়া শনির আখড়া-শিবু মার্কেট)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Shanir Akhra", "latitude": 23.7029, "longitude": 90.4549 },
+      { "name": "Shibu Market", "latitude": 23.6441, "longitude": 90.4905 },
+      { "name": "Chashara", "latitude": 23.6231, "longitude": 90.5002 }
+    ]
+  },
+  {
+    "name": "উত্তরণ ১",
+    "description": "জবি টু কচুক্ষেত (ভায়া ধানমন্ডি-মিরপুর ১০)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Science Lab", "latitude": 23.7378, "longitude": 90.3828 },
+      { "name": "Dhanmondi 27", "latitude": 23.7541, "longitude": 90.3758 },
+      { "name": "Shyamoli", "latitude": 23.7715, "longitude": 90.3644 },
+      { "name": "Mirpur 10", "latitude": 23.8069, "longitude": 90.3687 },
+      { "name": "Kachukhet", "latitude": 23.7931, "longitude": 90.3908 }
+    ]
+  },
+  {
+    "name": "উত্তরণ ২",
+    "description": "জবি টু হার্ট ফাউন্ডেশন (ভায়া মিরপুর ১-কিংবদন্তী)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Nilkhet", "latitude": 23.7331, "longitude": 90.3854 },
+      { "name": "Dhanmondi 27", "latitude": 23.7541, "longitude": 90.3758 },
+      { "name": "Shyamoli", "latitude": 23.7715, "longitude": 90.3644 },
+      { "name": "Mirpur 1", "latitude": 23.7956, "longitude": 90.3537 },
+      { "name": "Heart Foundation", "latitude": 23.8112, "longitude": 90.3661 }
+    ]
+  },
+  {
+    "name": "তুরাগ",
+    "description": "জবি টু নবীনগর (ভায়া গাবতলী-স্মৃতিসৌধ)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Shyamoli", "latitude": 23.7715, "longitude": 90.3644 },
+      { "name": "Gabtoli", "latitude": 23.7781, "longitude": 90.3344 },
+      { "name": "Savar Bus Stand", "latitude": 23.8442, "longitude": 90.2581 },
+      { "name": "National Memorial", "latitude": 23.9109, "longitude": 90.2536 },
+      { "name": "Nabinagar", "latitude": 23.9137, "longitude": 90.2547 }
+    ]
+  },
+  {
+    "name": "কালিগঙ্গা",
+    "description": "জবি টু মানিকগঞ্জ (ভায়া বেরিবাধ-সিংগাইর)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Mohammadpur", "latitude": 23.7543, "longitude": 90.3644 },
+      { "name": "Beribadh", "latitude": 23.7662, "longitude": 90.3415 },
+      { "name": "Singair", "latitude": 23.8144, "longitude": 90.1504 },
+      { "name": "Manikganj Bus Stand", "latitude": 23.8617, "longitude": 90.0039 }
+    ]
+  },
+  {
+    "name": "অনির্বাণ ১",
+    "description": "জবি টু মিরপুর ১২ (ভায়া শাহবাগ-ফার্মগেট)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Shahbag", "latitude": 23.7388, "longitude": 90.3956 },
+      { "name": "Farmgate", "latitude": 23.7574, "longitude": 90.3900 },
+      { "name": "Agargaon", "latitude": 23.7758, "longitude": 90.3776 },
+      { "name": "Mirpur 10", "latitude": 23.8069, "longitude": 90.3687 },
+      { "name": "Mirpur 12", "latitude": 23.8241, "longitude": 90.3654 }
+    ]
+  },
+  {
+    "name": "অনির্বাণ ২",
+    "description": "জবি টু মিরপুর ১২ (ভায়া বিজয় সরণী-কাজীপাড়া)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Bijoy Sarani", "latitude": 23.7625, "longitude": 90.3879 },
+      { "name": "Kazipara", "latitude": 23.7972, "longitude": 90.3725 },
+      { "name": "Mirpur 11", "latitude": 23.8135, "longitude": 90.3672 },
+      { "name": "Mirpur 12", "latitude": 23.8241, "longitude": 90.3654 }
+    ]
+  },
+  {
+    "name": "ধুমকেতু",
+    "description": "জবি টু নতুন বাজার (ভায়া রামপুরা-লিঙ্করোড)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Abul Hotel", "latitude": 23.7529, "longitude": 90.4181 },
+      { "name": "Rampura TV Center", "latitude": 23.7602, "longitude": 90.4158 },
+      { "name": "Uttar Badda", "latitude": 23.7865, "longitude": 90.4258 },
+      { "name": "Natun Bazar", "latitude": 23.7979, "longitude": 90.4235 }
+    ]
+  },
+  {
+    "name": "আসসুন্নah হল বাস",
+    "description": "জবি টু আসসুন্নাহ হল",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "As-Sunnah Hall", "latitude": 23.7005, "longitude": 90.4150 }
+    ]
+  },
+  {
+    "name": "চক্রাকার ১",
+    "description": "জবি সার্কুলার রুট (ভায়া খিলগাঁও-বাংলামোটর)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Sayedabad", "latitude": 23.7196, "longitude": 90.4326 },
+      { "name": "Maliibagh", "latitude": 23.7479, "longitude": 90.4121 },
+      { "name": "Banglamotor", "latitude": 23.7451, "longitude": 90.3951 },
+      { "name": "Shahbag", "latitude": 23.7388, "longitude": 90.3956 },
+      { "name": "Gulistan", "latitude": 23.7258, "longitude": 90.4116 },
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 }
+    ]
+  },
+  {
+    "name": "চক্রাকার ২",
+    "description": "জবি টু টিএসসি (সার্কুলার)",
+    "stops": [
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 },
+      { "name": "Central Shaheed Minar", "latitude": 23.7277, "longitude": 90.3965 },
+      { "name": "TSC", "latitude": 23.7328, "longitude": 90.3961 },
+      { "name": "Shahbag", "latitude": 23.7388, "longitude": 90.3956 },
+      { "name": "Jagannath University", "latitude": 23.7081, "longitude": 90.4109 }
+    ]
+  }
+]
 
+}
